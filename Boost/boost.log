@@ -1,0 +1,40 @@
+Circuit: * C:\Users\Lucas\Desktop\Boost LTSPICE\boost.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u2:vc)
+Heightened Def Con from 0.00058 to 0.000580001
+Heightened Def Con from 0.00059 to 0.000590001
+Heightened Def Con from 0.0006 to 0.000600001
+Heightened Def Con from 0.00061 to 0.00061
+Heightened Def Con from 0.00061 to 0.000610001
+Heightened Def Con from 0.00062 to 0.00062
+Heightened Def Con from 0.00062 to 0.000620001
+Heightened Def Con from 0.00063 to 0.00063
+Heightened Def Con from 0.00063 to 0.000630001
+Heightened Def Con from 0.00064 to 0.000640001
+Heightened Def Con from 0.00065 to 0.000650001
+Heightened Def Con from 0.00066 to 0.000660001
+Heightened Def Con from 0.00067 to 0.000670001
+
+Date: Tue Jun 30 20:47:16 2020
+Total elapsed time: 57.966 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2777302
+traniter = 2777302
+tranpoints = 747313
+accept = 592044
+rejected = 155282
+matrix size = 38
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.29 KB object code size  0.7/0.4/[0.3]
+Matrix Compiler2: 2.67 KB object code size  0.5/0.8/[0.3]
+
