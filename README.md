@@ -1,2 +1,2 @@
 # LTSPICE-Simulations
-Simulations of powerr converters using LTSPICE
+Simulations of power converters using LTSPICE
